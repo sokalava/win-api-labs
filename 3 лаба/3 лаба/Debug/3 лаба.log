@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Пользователь\source\repos\3 лаба\3 лаба\Source.cpp(12,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Пользователь\source\repos\3 лаба\3 лаба\Source.cpp(21,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  3 лаба.vcxproj -> C:\Users\Пользователь\source\repos\3 лаба\Debug\3 лаба.exe
